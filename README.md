@@ -17,7 +17,6 @@
 ## 项目结构
 
 ```
-dara1/
 ├── dara.py                 # 主要联邦学习框架（带DP和自适应稳定性控制）
 ├── mcpr.py                 # 拜占庭防御基准实验
 ├── models/
@@ -242,6 +241,20 @@ python mcpr.py
 - 增加 `BATCH_SIZE`
 
 ---
+### 项目信息 Project Statement
+
+**项目名称 (Project Name):** 联邦学习拜占庭防御框架 (Byzantine-Robust Federated Learning Framework)
+
+**作者 (Author):** 宋祖安
+
+**作者隶属 (Affiliation):** 暨南大学网络空间安全学院（College of Cyber Security，Jinan University）
+
+
+
+### 学术诚实
+
+- 如在学术研究或论文中使用本项目的代码、方法或结果，请务必进行适当的引用和致谢。
+- 任何基于本项目的研究工作都应当遵守学术伦理规范。
 
 
 
